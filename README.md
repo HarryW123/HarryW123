@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarryW123
 - 👀 I’m interested in Fullstack Web Development & Discord Bot Development
-- 🌱 I’m currently learning Laravel PHP & VueJS
+- 🌱 I’m currently learning Laravel PHP, ReactJS & VueJS
 - 💞️ I’m looking to collaborate on random stuff
 - 📫 How to reach me Discord Harry W#7916
 
